@@ -33,13 +33,18 @@
 2. 右键单击在这里打开终端
 
 ![img_7.png](image/img_7.png)
+
 3. 输入 : [sudo su] 回车提取root权限
-   sudo su
+```shell
+sudo su
+```   
 
 ![img_8.png](image/img_8.png)
 
 4. 执行命令 [./fluxion.sh] 回车
-   ./fluxion.sh
+```shell
+./fluxion.sh
+```
 
 ![img_9.png](image/img_9.png)
 
@@ -191,12 +196,16 @@
 ![img_38.png](image/img_38.png)
 
 3. 输入 [sudo su] 提取root权限
-   sudo su
+```shell
+sudo su
+```
 
 ![img_39.png](image/img_39.png)
 
 4. 查看网卡【无线网卡一般叫wlan0..wlan1...等等】
-   ip a
+```shell
+ip a
+```
 
 ![img_40.png](image/img_40.png)
 
